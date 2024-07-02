@@ -7,7 +7,7 @@
 
 🎓 Técnico em Desenvolvimento de Sistemas formado pelo SENAI
 
-💻 Desenvolvedor apaixonado por tecnologia e inovação
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação
 
 🌱 Atualmente focado no desenvolvimento de um sistema de ponto de venda (PDV) para mini-mercados, desenvolvido em C# .NET
 

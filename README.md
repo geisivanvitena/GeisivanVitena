@@ -5,13 +5,13 @@
   
 👋 Olá! sou o Geisivan Dev
 
-🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI
+🎓 Técnico em Desenvolvimento de Sistemas formado pelo SENAI
 
 💻 Desenvolvedor apaixonado por tecnologia e inovação
 
-🌱 Atualmente focado no desenvolvimento de um sistema de ponto de venda (PDV) para mini-mercados
+🌱 Atualmente focado no desenvolvimento de um sistema de ponto de venda (PDV) para mini-mercados, desenvolvido em C# .NET
 
-⚙️ Tecnologias: [C# .NET, Python, Django, HTML, CSS, JavaScript, My SQL]
+⚙️ Tecnologias = [ C# .NET, Python, Django, HTML, CSS, JavaScript, My SQL ]
 
 📚 Sempre aprendendo algo novo e aprimorando minhas habilidades
 

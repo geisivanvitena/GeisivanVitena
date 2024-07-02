@@ -25,6 +25,6 @@
 
 🚀 Interessado em colaborar em projetos open source e contribuir para a comunidade de desenvolvedores
 
-📫 Você pode me encontrar em: [Linkedin - https://www.linkedin.com/feed/]
+📫 Você pode me encontrar em: Linkedin - https://www.linkedin.com/feed
 
 

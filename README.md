@@ -25,10 +25,12 @@
     </a>
     <p>You can find me here on LinkedIn 👆</p>
   </div> 
+
+
   
 </div>
 
-![Snake animation](https://github.com/GeisivanVitena/GeisivanVitena/blob/output/github-contribution-grid-snake.svg)
+
 
 
 

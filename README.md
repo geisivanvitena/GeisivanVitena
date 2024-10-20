@@ -3,7 +3,7 @@
 <div style="text-align: center;">
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px" style="vertical-align: middle;"/>
-    Hy, my name is Geisivan! | 👨‍💻 Full Stack Developer
+    »»» Hy, my name is Geisivan ««« »»» 👨‍💻 Full Stack Developer «««
   </h1>
 </div>
 
@@ -29,7 +29,7 @@
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div> 
   
-<h1 align="center">Redes Sociais</h1>
+<h1 align="center">»»» Redes Sociais «««</h1>
 
   <div align="center"> 
     <a href="https://www.linkedin.com/in/geisivan-vitena-a46168246/" target="_blank">

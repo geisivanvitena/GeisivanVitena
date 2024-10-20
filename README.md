@@ -1,5 +1,13 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h1 align="center">👋 Hy, my name is Geisivan! | 👨‍💻 Full Stack Developer</h1>
+
+<div style="text-align: center;">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px" style="vertical-align: middle;"/>
+    Hy, my name is Geisivan! | 👨‍💻 Full Stack Developer
+  </h1>
+</div>
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div>
@@ -11,7 +19,7 @@
   <div style="display: inline_block"><br>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
     <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-    <h1 align="center">»»» TECHNOLOGIES «««</h1>
+    <h1 align="center">»»» Technologies «««</h1>
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" alt="dotnet-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

@@ -1,32 +1,36 @@
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeisivanVitena&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeisivanVitena&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
-👨‍💻 Full Stack Developer
-
-======================================================================================
+<div align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    <h1 align="center">»»» TECHNOLOGIES «««</h1>
+    <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" height="30" width="40" alt="dotnet-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" alt="django-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </div>
   
-👋 Hi! my name is Geisivan 
+  <h1 align="center">Redes Sociais</h1>
 
-🎓 Técnico em Desenvolvimento de Sistemas formado pelo SENAI - SC
+  <div align="center"> 
+    <a href="https://www.linkedin.com/in/GeisivanVitena/" target="_blank">
+      <img width="25" alt="LinkedIn Icon" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+    </a>
+    <p>You can find me here on LinkedIn 👆</p>
+  </div> 
+  
+</div>
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas - Faculdade Anhanguera
+![Snake animation](https://github.com/GeisivanVitena/GeisivanVitena/blob/output/github-contribution-grid-snake.svg)
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação
 
-🌱 Atualmente focado no desenvolvimento de um sistema de ponto de venda (PDV) para mini-mercados, desenvolvido em C# .NET
 
-⚙️ Tecnologias:
-
-    » C# .NET
-    » Python
-    » Django
-    » HTML
-    » CSS
-    » JavaScript
-    » MySQL
-   
-📚 Sempre aprendendo algo novo e aprimorando minhas habilidades
-
-🚀 Interessado em colaborar em projetos open source e contribuir para a comunidade de desenvolvedores
-
-📫 Você pode me encontrar em: Linkedin - https://www.linkedin.com/feed
 
 

@@ -6,6 +6,7 @@
 👋 Hi! my name is Geisivan 
 
 🎓 Técnico em Desenvolvimento de Sistemas formado pelo SENAI - SC
+
 🎓 Graduando em Análise e Desenvolvimento de Sistemas - Faculdade Anhanguera
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação

@@ -32,7 +32,7 @@
 <h1 align="center">Redes Sociais</h1>
 
   <div align="center"> 
-    <a href="https://www.linkedin.com/in/geisivanvitena/" target="_blank">
+    <a href="https://www.linkedin.com/in/geisivan-vitena/" target="_blank">
       <img width="25" alt="LinkedIn Icon" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
     </a>
     <p>You can find me here on LinkedIn 👆</p>

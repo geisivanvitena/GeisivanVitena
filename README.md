@@ -9,6 +9,7 @@
 
 <div align="center"> 
   <div style="display: inline_block"><br>
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
     <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     <h1 align="center">»»» TECHNOLOGIES «««</h1>
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

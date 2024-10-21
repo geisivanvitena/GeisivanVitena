@@ -3,7 +3,7 @@
 <div style="text-align: center;">
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px" style="vertical-align: middle;"/>
-    »» Hy, my name is Geisivan «« »» 👨‍💻 Full Stack Developer ««
+    »» Hi, my name is Geisivan «« »» 👨‍💻 Full Stack Developer ««
   </h1>
 </div>
 

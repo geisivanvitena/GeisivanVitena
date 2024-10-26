@@ -1,10 +1,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div style="text-align: center;">
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px" style="vertical-align: middle;"/>
-    »» Hi, my name is Geisivan «« »» 👨‍💻 Full Stack Developer ««
-  </h1>
+  <span style="color: red;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+my+name+is+Geisivan!;👨‍💻+Full+Stack+Developer!" alt="Typing SVG" />
+    </a>
+  </span>
 </div>
 
 
@@ -37,6 +38,11 @@
     <p>»»» You can find me here on LinkedIn 👆 «««</p>
      <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   </div> 
+
+  <div style="text-align: center;">
+   <br><p><b>Visitors Count</b></p>  
+   <p><img src="https://profile-counter.glitch.me/{GeisivanVitena}/count.svg" alt="Visitors Count" /></p>
+  </div>
   
 </div>
 

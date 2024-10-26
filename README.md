@@ -20,7 +20,7 @@
   <div style="display: inline_block">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
     <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-    <h1 align="center">»»» 💻 Technologies and Tools 🛠️ «««</h1>
+    <h1 align="center">»» 💻 Technologies and Tools 🛠️ ««</h1>
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" alt="dotnet-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -35,11 +35,11 @@
   </div> 
 
   <div align="center"> 
-    <h1 align="center">»»» Social Networks 🔗 «««</h1>
+    <h1 align="center">»» Social Networks 🔗 ««</h1>
     <a href="https://www.linkedin.com/in/geisivan-vitena-a46168246/" target="_blank">
       <img width="25" alt="LinkedIn Icon" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
     </a>
-    <p>»»» You can find me here on LinkedIn 👆 «««</p>
+    <p>»» You can find me here on LinkedIn 👆 ««</p>
      <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   </div> 
 

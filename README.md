@@ -35,7 +35,7 @@
   </div> 
 
   <div align="center"> 
-    <h1 align="center">»» Social Networks 🔗 ««</h1>
+    <h1 align="center">»» 🌐 Social Networks ««</h1>
     <a href="https://www.linkedin.com/in/geisivan-vitena-a46168246/" target="_blank">
       <img width="25" alt="LinkedIn Icon" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
     </a>

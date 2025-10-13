@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Geisivan!;👨🏻‍💻+Full+Stack+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=45&center=true&vCenter=true&width=1000&lines=👋+WELCOME+TO+MY+GITHUB;+🧑🏻I'm+Geisivan!;👨🏻‍💻+Full+Stack+Developer!" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -45,8 +45,6 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
   [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
   [![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
- 
-
  
 </div>
 

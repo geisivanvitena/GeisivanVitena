@@ -25,22 +25,29 @@
 
 <!-- Tecnologias -->
 <div align="center">
-
-  [![🚀 Tecnologias](https://img.shields.io/badge/🚀%20Technologies-000?style=for-the-badge)]()
-
+  
+  [![🚀 Skills](https://img.shields.io/badge/🚀%20Skills-000?style=for-the-badge)]()
+  
   <br>
   
-  [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)](https://www.java.com/)
+  [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=007396)](https://www.java.com/)
   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://spring.io/)
   [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
   [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=092E20)](https://www.djangoproject.com/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+  [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)](https://angular.io/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
   [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
   [![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
+ 
+
+ 
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>

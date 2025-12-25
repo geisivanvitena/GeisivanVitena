@@ -9,6 +9,56 @@
 
 <hr>
 
+## 🧬 About Me  
+
+I am a Java Software Developer with experience in backend and full stack development, focused on building secure, scalable, and well-structured RESTful APIs using Spring Boot and modern software engineering practices.
+
+I work with Spring Security and JWT, implementing stateless authentication and authorization, and have experience integrating applications with both relational databases (PostgreSQL, MySQL, SQL Server) and NoSQL databases (MongoDB).
+
+I also have hands-on experience with CI/CD pipelines, using GitHub Actions to automate builds, tests, and deployments, as well as dependency management with Maven and Gradle. My development workflow is strongly supported by Git/GitHub, ensuring version control, collaboration, and code quality.
+
+<hr>
+
+## 🎯 Career Objective
+
+To work as a Java Developer, contributing to the development of robust, secure, and scalable backend solutions.
+
+<hr>
+
+🔹Technical Focus Areas
+
+Backend Development
+
+- REST API development with Spring Boot
+
+- Security implementation with Spring Security and JWT
+
+Data Persistence
+
+- JPA/Hibernate
+
+- SQL and NoSQL databases
+
+CI/CD & DevOps
+
+- Build, test, and deploy automation
+
+- Continuous Integration and Continuous Delivery
+
+System Integration
+
+- Consumption and exposure of RESTful services
+
+Best Practices
+
+- Clean Code
+
+- Layered architecture
+
+- Version control and code organization
+
+<hr>
+
 <!-- Estatísticas GitHub -->
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geisivanvitena&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>

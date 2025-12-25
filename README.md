@@ -1,6 +1,10 @@
 <!-- Header animado -->
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=45&center=true&vCenter=true&width=1000&lines=👋+WELCOME+TO+MY+GITHUB;+🧑🏻I'm+Geisivan!;👨🏻‍💻+Full+Stack+Developer!" alt="Typing SVG" />
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=👋+HELLO+WORLD!;🎉+WELCOME+TO+MY+GITHUB;+🧔🏻I'M+GEISIVAN!;💻+FULL+STACK+DEVELOPER!;JAVA|SPRING+BOOT;PYTHON|DJANGO|FLASK;ANGULAR|REACT;JAVASCRIPT|TYPESCRIPT|HTML|CSS)](https://git.io/typing-svg)
 </div>
 
 <hr>
@@ -9,7 +13,6 @@
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geisivanvitena&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=16&theme=great-gatsby"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geisivanvitena&theme=great-gatsby" alt="GitHub Streak">
 </div>
 
 <hr>
@@ -45,7 +48,6 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
   [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
   [![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
- 
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
@@ -85,4 +87,9 @@
 <!-- Visualizações -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GeisivanVitena" alt="GitHub profile views counter" width="200" height="40">
+</div>
+
+<div align="center">
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14&section=footer&reversal=false&animation=twinkling)
 </div>

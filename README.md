@@ -24,7 +24,7 @@
   <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<hr>
 
 <!-- Tecnologias -->
 <div align="center">
@@ -50,7 +50,7 @@
   [![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<hr>
 
 <!-- Ferramentas -->
 <div align="center">
@@ -67,7 +67,7 @@
   [![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=0079BF)](https://trello.com/)
 </div>
 
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+ <hr>
 
 <!-- Redes Sociais -->
 <div align="center">
@@ -86,7 +86,7 @@
 
 <!-- Visualizações -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GeisivanVitena" alt="GitHub profile views counter" width="200" height="40">
+  <img src="https://komarev.com/ghpvc/?username=geisivanvitena" alt="GitHub profile views counter" width="200" height="40">
 </div>
 
 <div align="center">

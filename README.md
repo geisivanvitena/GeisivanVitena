@@ -19,13 +19,7 @@ I also have hands-on experience with CI/CD pipelines, using GitHub Actions to au
 
 <hr>
 
-## 🎯 Career Objective
-
-To work as a Java Developer, contributing to the development of robust, secure, and scalable backend solutions.
-
-<hr>
-
-🔹Technical Focus Areas
+## 🎯 Technical Focus Areas
 
 Backend Development
 

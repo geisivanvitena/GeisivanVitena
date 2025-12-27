@@ -9,47 +9,84 @@
 
 <hr>
 
+```java
+
+public class ProgrammerLife {
+
+    public static void inspiration(boolean motivated) {
+        if (motivated){
+             System.out.println("💻 Motivated! Let's code! 🚀");
+        }
+        else{
+             System.out.println("☕ Take a coffee and keep coding! 💻");
+        }
+    }
+
+    public static void main(String[] args) {
+        inspiration(true);
+    }
+}
+
+````
+<hr>
+
 ## 🧬 About Me  
 
-I am a Java Software Developer with experience in backend and full stack development, focused on building secure, scalable, and well-structured RESTful APIs using Spring Boot and modern software engineering practices.
+I am a Full Stack Software Developer, specialized in building modern, secure, and scalable applications.
 
-I work with Spring Security and JWT, implementing stateless authentication and authorization, and have experience integrating applications with both relational databases (PostgreSQL, MySQL, SQL Server) and NoSQL databases (MongoDB).
+I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software engineering best practices.
 
-I also have hands-on experience with CI/CD pipelines, using GitHub Actions to automate builds, tests, and deployments, as well as dependency management with Maven and Gradle. My development workflow is strongly supported by Git/GitHub, ensuring version control, collaboration, and code quality.
+I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
 
 <hr>
 
-## 🎯 Technical Focus Areas
+## 🎯 Technical Areas of Expertise
 
-Backend Development
+### ⚙️ Backend
 
 - REST API development with Spring Boot
 
-- Security implementation with Spring Security and JWT
+- Security implementation using Spring Security and JWT
 
-Data Persistence
+- Layered architecture and clear separation of responsibilities
 
-- JPA/Hibernate
+### 🎨 Frontend
 
-- SQL and NoSQL databases
+- Web interface development with Angular and React
 
-CI/CD & DevOps
+- Responsive application development using HTML, CSS, and JavaScript
 
-- Build, test, and deploy automation
+- Frontend integration with REST APIs
 
-- Continuous Integration and Continuous Delivery
+### 🗄️ Data Persistence
 
-System Integration
+- JPA / Hibernate
+
+- SQL databases (PostgreSQL, MySQL, SQL Server)
+
+- NoSQL databases (MongoDB)
+
+### 🚀 Build, CI/CD & DevOps
+
+- Dependency management and build automation with Maven and Gradle
+
+- Build, test, and deployment automation
+
+- Continuous Integration and Continuous Delivery (CI/CD) with GitHub Actions
+
+### 🔗 System Integration
 
 - Consumption and exposure of RESTful services
 
-Best Practices
+- Communication between systems and microservices
+
+### 🧠 Development Best Practices
 
 - Clean Code
 
-- Layered architecture
+- Well-defined architecture
 
-- Version control and code organization
+- Code versioning and organization using Git/GitHub
 
 <hr>
 

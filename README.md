@@ -15,13 +15,13 @@
 public class ProgrammerLifeController {
 
     @GetMapping("/inspiration")
-    public String inspiration(@RequestParam boolean motivated) {
-        if (motivated) {
-            return "💻 Motivated! Let's code! 🚀";
+    public ResponseEntity<String> inspiration(@RequestParam boolean motivated) {
 
-        } else {
-            return "☕ Take a coffee and keep coding! 💻";
-        }
+        String message = motivated
+            ? "💻 Motivated! Let's code! 🚀"
+            : "☕ Take a coffee and keep coding! 💻";
+
+        return ResponseEntity.ok(message);
     }
 }
 

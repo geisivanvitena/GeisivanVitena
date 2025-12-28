@@ -4,7 +4,7 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=👋+HELLO+WORLD!;🎉+WELCOME+TO+MY+GITHUB;+🧔🏻I'M+GEISIVAN!;💻+FULL+STACK+DEVELOPER!;JAVA|SPRING+BOOT;PYTHON|DJANGO|FLASK;ANGULAR|REACT;JAVASCRIPT|TYPESCRIPT|HTML|CSS)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=👋+HELLO+WORLD!;🎉+WELCOME+TO+MY+GITHUB;+🧔🏻I'M+GEISIVAN!;💻+FULL+STACK+DEVELOPER!;JAVA|SPRING+BOOT;ANGULAR|REACT;JAVASCRIPT|TYPESCRIPT|HTML|CSS)](https://git.io/typing-svg)
 </div>
 
 <hr>

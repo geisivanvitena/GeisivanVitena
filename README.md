@@ -58,8 +58,6 @@ I have experience in system integration, data persistence, version control, and 
 
 ### 🗄️ Data Persistence
 
-- JPA / Hibernate
-
 - SQL databases (PostgreSQL, MySQL, SQL Server)
 
 - NoSQL databases (MongoDB)

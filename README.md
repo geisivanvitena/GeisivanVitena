@@ -11,19 +11,17 @@
 
 ```java
 
-public class ProgrammerLife {
+@RestController
+public class ProgrammerLifeController {
 
-    public static void inspiration(boolean motivated) {
-        if (motivated){
-             System.out.println("💻 Motivated! Let's code! 🚀");
-        }
-        else{
-             System.out.println("☕ Take a coffee and keep coding! 💻");
-        }
-    }
+    @GetMapping("/inspiration")
+    public String inspiration(@RequestParam boolean motivated) {
+        if (motivated) {
+            return "💻 Motivated! Let's code! 🚀";
 
-    public static void main(String[] args) {
-        inspiration(true);
+        } else {
+            return "☕ Take a coffee and keep coding! 💻";
+        }
     }
 }
 

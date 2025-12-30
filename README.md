@@ -4,8 +4,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=👋+HELLO+WORLD!;🎉+WELCOME+TO+MY+GITHUB;+🧔🏻I'M+GEISIVAN!;💻+FULL+STACK+DEVELOPER!;JAVA|SPRING+BOOT;ANGULAR|REACT;JAVASCRIPT|TYPESCRIPT|HTML|CSS)](https://git.io/typing-svg)
 </div>
 
-<hr>
-
 ```java
 
 @RestController
@@ -23,7 +21,6 @@ public class ProgrammerLifeController {
 }
 
 ````
-<hr>
 
 ## 🧬 About Me  
 
@@ -32,6 +29,8 @@ I am a Full Stack Software Developer, specialized in building modern, secure, an
 I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software engineering best practices.
 
 I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
+
+##
 
 ## 🎯 Technical Areas of Expertise
 
@@ -43,6 +42,8 @@ I have experience in system integration, data persistence, version control, and 
 
 - Layered architecture and clear separation of responsibilities
 
+##
+
 ### 🎨 Frontend
 
 - Web interface development with Angular and React
@@ -51,11 +52,15 @@ I have experience in system integration, data persistence, version control, and 
 
 - Frontend integration with REST APIs
 
+##
+
 ### 🗄️ Data Persistence
 
 - SQL databases (PostgreSQL, MySQL, SQL Server)
 
 - NoSQL databases (MongoDB)
+
+##
 
 ### 🚀 Build, CI/CD & DevOps
 
@@ -65,11 +70,15 @@ I have experience in system integration, data persistence, version control, and 
 
 - Continuous Integration and Continuous Delivery (CI/CD) with GitHub Actions
 
+##
+
 ### 🔗 System Integration
 
 - Consumption and exposure of RESTful services
 
 - Communication between systems and microservices
+
+##
 
 ### 🧠 Development Best Practices
 
@@ -79,48 +88,40 @@ I have experience in system integration, data persistence, version control, and 
 
 - Code versioning and organization using Git/GitHub
 
-<hr>
-
-<div align="center">
-  
-  [![🚀 Skills](https://img.shields.io/badge/🚀%20Skills-000?style=for-the-badge)]()
-  
-  <br>
-  
-  [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=007396)](https://www.java.com/)
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://spring.io/)
-  [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-  [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=092E20)](https://www.djangoproject.com/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-  [![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-  [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)](https://angular.io/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
-  [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
-  [![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
-</div>
-
-<hr>
+##
 
 <div align="center">
 
-  [![🛠️ Ferramentas](https://img.shields.io/badge/🛠️%20Tools-000?style=for-the-badge)]()
+  # 🛠️ Skills
 
-  <br>
+  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+  [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
   
-  [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/)
-  [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)](https://www.docker.com/)
-  [![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
-  [![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira&logoColor=0052CC)](https://www.atlassian.com/software/jira)
-  [![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=0079BF)](https://trello.com/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://reactjs.org/)
+  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+  
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+  
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+  [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 </div>
 
-<hr>
+##
 
 <div align="center">
 
@@ -145,12 +146,10 @@ I have experience in system integration, data persistence, version control, and 
   <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
 </div>
 
- <hr>
+ ##
 
 <!-- Redes Sociais -->
 <div align="center">
-
-  [![🌐 Redes Sociais](https://img.shields.io/badge/🌐%20Social%20Media-000?style=for-the-badge)]()
 
   <br>
   
@@ -160,11 +159,11 @@ I have experience in system integration, data persistence, version control, and 
   <h3>You can find me here on LinkedIn 👆</h3>
 </div>
 
-<hr>
+##
 
 <!-- Visualizações -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=geisivanvitena" alt="GitHub profile views counter" width="200" height="40">
+  <img src="https://komarev.com/ghpvc/?username=geisivanvitena" alt="GitHub profile views counter" width="150" height="40">
 </div>
 
 <div align="center">

@@ -1,6 +1,3 @@
-<!-- Header animado -->
-
-
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14)
@@ -35,8 +32,6 @@ I am a Full Stack Software Developer, specialized in building modern, secure, an
 I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software engineering best practices.
 
 I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
-
-<hr>
 
 ## 🎯 Technical Areas of Expertise
 
@@ -86,24 +81,6 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-<!-- Estatísticas GitHub -->
-<div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geisivanvitena&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-
-<hr>
-
-<!-- GIFs -->
-<div align="center">
-  
-  <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">
-  <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
-</div>
-
-<hr>
-
-<!-- Tecnologias -->
 <div align="center">
   
   [![🚀 Skills](https://img.shields.io/badge/🚀%20Skills-000?style=for-the-badge)]()
@@ -129,7 +106,6 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-<!-- Ferramentas -->
 <div align="center">
 
   [![🛠️ Ferramentas](https://img.shields.io/badge/🛠️%20Tools-000?style=for-the-badge)]()
@@ -142,6 +118,31 @@ I have experience in system integration, data persistence, version control, and 
   [![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
   [![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira&logoColor=0052CC)](https://www.atlassian.com/software/jira)
   [![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=0079BF)](https://trello.com/)
+</div>
+
+<hr>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8"
+    width="420"
+    alt="Top Languages"
+  />
+
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=geisivanvitena&show_icons=true)
+  
+</div>
+
+<!-- Estatísticas GitHub -->
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark)
+
+<!-- GIFs -->
+<div align="center">
+  
+  <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">
+  <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
 </div>
 
  <hr>

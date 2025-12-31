@@ -181,3 +181,11 @@ I have experience in system integration, data persistence, version control, and 
   
   ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14&section=footer&reversal=false&animation=twinkling)
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geisivanvitena/geisivanvitena/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geisivanvitena/geisivanvitena/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geisivanvitena/geisivanvitena/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

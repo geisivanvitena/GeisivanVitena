@@ -154,12 +154,15 @@ I have experience in system integration, data persistence, version control, and 
 <div align="center">
 
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8"
-    width="420"
-    alt="Top Languages"
-  />
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8&theme=dark"
+  width="420"
+  alt="Top Languages"
+/>
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=geisivanvitena&show_icons=true)
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=geisivanvitena&show_icons=true&theme=dark"
+  alt="GitHub Stats"
+/>
   
 </div>
 

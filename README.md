@@ -4,6 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=👋+HELLO+WORLD!;🎉+WELCOME+TO+MY+GITHUB;+🧔🏻I'M+GEISIVAN!;💻+FULL+STACK+DEVELOPER!;JAVA|SPRING+BOOT;ANGULAR|REACT;JAVASCRIPT|TYPESCRIPT|HTML|CSS)](https://git.io/typing-svg)
 </div>
 
+# ☕ Code & Inspiration
+
 ```java
 
 @RestController
@@ -22,7 +24,7 @@ public class ProgrammerLifeController {
 
 ````
 
-## 🧬 About Me  
+# 🧬 About Me  
 
 I am a Full Stack Software Developer, specialized in building modern, secure, and scalable applications.
 
@@ -32,9 +34,9 @@ I have experience in system integration, data persistence, version control, and 
 
 ---
 
-## 🎯 Technical Areas of Expertise
+# 🎯 Technical Areas of Expertise
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 - REST API development with Spring Boot
 
@@ -44,7 +46,7 @@ I have experience in system integration, data persistence, version control, and 
 
 ##
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 - Web interface development with Angular and React
 
@@ -54,7 +56,7 @@ I have experience in system integration, data persistence, version control, and 
 
 ##
 
-### 🗄️ Data Persistence
+## 🗄️ Data Persistence
 
 - SQL databases (PostgreSQL, MySQL, SQL Server)
 
@@ -62,7 +64,7 @@ I have experience in system integration, data persistence, version control, and 
 
 ##
 
-### 🚀 Build, CI/CD & DevOps
+## 🚀 Build, CI/CD & DevOps
 
 - Dependency management and build automation with Maven and Gradle
 
@@ -72,7 +74,7 @@ I have experience in system integration, data persistence, version control, and 
 
 ##
 
-### 🔗 System Integration
+## 🔗 System Integration
 
 - Consumption and exposure of RESTful services
 
@@ -80,7 +82,7 @@ I have experience in system integration, data persistence, version control, and 
 
 ##
 
-### 🧠 Development Best Practices
+## 🧠 Development Best Practices
 
 - Clean Code
 
@@ -90,7 +92,7 @@ I have experience in system integration, data persistence, version control, and 
 
 ##
 
-### 🤝 Soft Skills
+## 🤝 Soft Skills
 
 - Communication
 
@@ -104,9 +106,9 @@ I have experience in system integration, data persistence, version control, and 
 
 <div align="center">
 
-  # 🛠️ Skills
-  
-  ### 🖥️ Languages & Frameworks
+  # 🛠️ Hard Skills
+
+  ## 🖥️ Languages & Frameworks
 
   <br>
   
@@ -126,7 +128,7 @@ I have experience in system integration, data persistence, version control, and 
   
   ##
   
-  ### 🗄️ Databases
+  ## 🗄️ Databases
 
   <br>
   
@@ -137,7 +139,7 @@ I have experience in system integration, data persistence, version control, and 
   
   ##
   
-  ### 🧰 Tools
+  ## 🧰 Tools
 
   <br>
   
@@ -153,6 +155,8 @@ I have experience in system integration, data persistence, version control, and 
 
 <div align="center">
 
+# 📊 GitHub Statistics
+
   <img
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8&theme=dark"
   width="420"
@@ -163,20 +167,34 @@ I have experience in system integration, data persistence, version control, and 
   src="https://github-readme-stats-fast.vercel.app/api?username=geisivanvitena&show_icons=true&theme=dark"
   alt="GitHub Stats"
 />
+
+<hr>
   
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark)
+<div align="center">
+
+  # 📈 Activity Graph
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark)
+</div>
+
+<hr>
 
 <div align="center">
+
+# 🎬 Developer Life
   
   <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">
   <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
 </div>
 
-<br>
+<hr>
 
 <div align="center">
+
+  # 🐍 Contributions Animation
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geisivanvitena/geisivanvitena/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geisivanvitena/geisivanvitena/output/github-contribution-grid-snake-dark.svg">
@@ -184,9 +202,10 @@ I have experience in system integration, data persistence, version control, and 
   </picture>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=geisivanvitena" alt="GitHub profile views counter" width="150" height="40">
 </div>
 

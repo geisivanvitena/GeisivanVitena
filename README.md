@@ -22,7 +22,7 @@ public class ProgrammerLifeController {
     }
 }
 
-````
+```
 
 # 🧬 About Me  
 
@@ -34,7 +34,7 @@ I have experience in system integration, data persistence, version control, and 
 
 ---
 
-# 🎯 Technical Areas of Expertise
+# 🎯 Technical Expertise
 
 ## ⚙️ Backend
 
@@ -44,7 +44,7 @@ I have experience in system integration, data persistence, version control, and 
 
 - Layered architecture and clear separation of responsibilities
 
-##
+<hr>
 
 ## 🎨 Frontend
 
@@ -54,7 +54,7 @@ I have experience in system integration, data persistence, version control, and 
 
 - Frontend integration with REST APIs
 
-##
+<hr>
 
 ## 🗄️ Data Persistence
 
@@ -62,7 +62,7 @@ I have experience in system integration, data persistence, version control, and 
 
 - NoSQL databases (MongoDB)
 
-##
+<hr>
 
 ## 🚀 Build, CI/CD & DevOps
 
@@ -72,7 +72,7 @@ I have experience in system integration, data persistence, version control, and 
 
 - Continuous Integration and Continuous Delivery (CI/CD) with GitHub Actions
 
-##
+<hr>
 
 ## 🔗 System Integration
 
@@ -80,7 +80,7 @@ I have experience in system integration, data persistence, version control, and 
 
 - Communication between systems and microservices
 
-##
+<hr>
 
 ## 🧠 Development Best Practices
 
@@ -90,7 +90,7 @@ I have experience in system integration, data persistence, version control, and 
 
 - Code versioning and organization using Git/GitHub
 
-##
+<hr>
 
 ## 🤝 Soft Skills
 
@@ -102,11 +102,11 @@ I have experience in system integration, data persistence, version control, and 
 
 - Resilience
 
----
+<hr>
 
 <div align="center">
 
-  # 🛠️ Hard Skills
+  # 🛠️ Tech Stack
 
   ## 🖥️ Languages & Frameworks
 
@@ -126,7 +126,7 @@ I have experience in system integration, data persistence, version control, and 
   [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
   
-  ##
+  <hr>
   
   ## 🗄️ Databases
 
@@ -137,7 +137,7 @@ I have experience in system integration, data persistence, version control, and 
   [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   
-  ##
+  <hr>
   
   ## 🧰 Tools
 
@@ -150,8 +150,8 @@ I have experience in system integration, data persistence, version control, and 
   [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
   [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 </div>
-  
-  ---
+
+<hr>
 
 <div align="center">
 

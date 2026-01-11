@@ -108,7 +108,7 @@ I have experience in system integration, data persistence, version control, and 
 
   # 🛠️ Tech Stack
 
-  ## 🖥️ Languages & Frameworks
+  # 🖥️ Languages & Frameworks
 
   <br>
   
@@ -126,20 +126,20 @@ I have experience in system integration, data persistence, version control, and 
   [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
   
-  <hr>
+   <br>
   
-  ## 🗄️ Databases
+  # 🗄️ Databases
 
-  <br>
+   <br>
   
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   
-  <hr>
+  <br>
   
-  ## 🧰 Tools
+  # 🧰 Tools
 
   <br>
   
@@ -151,11 +151,11 @@ I have experience in system integration, data persistence, version control, and 
   [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 </div>
 
-<hr>
-
 <div align="center">
 
-# 📊 GitHub Statistics
+  <br>
+
+  # 📊 GitHub Statistics
 
   <img
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8&theme=dark"
@@ -167,33 +167,30 @@ I have experience in system integration, data persistence, version control, and 
   src="https://github-readme-stats-fast.vercel.app/api?username=geisivanvitena&show_icons=true&theme=dark"
   alt="GitHub Stats"
 />
-
-<hr>
   
 </div>
 
 <div align="center">
+
+  <br>
 
   # 📈 Activity Graph
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark)
 </div>
 
-<hr>
 
 <div align="center">
 
-# 🎬 Developer Life
+  <br>
+
+  # ☕ 🖥️ Developer Life
   
   <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">
   <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
 </div>
 
-<hr>
-
 <div align="center">
-
-  # 🐍 Contributions Animation
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geisivanvitena/geisivanvitena/output/github-contribution-grid-snake-dark.svg">
@@ -202,7 +199,7 @@ I have experience in system integration, data persistence, version control, and 
   </picture>
 </div>
 
-<hr>
+<br>
 
 <div align="center">
   

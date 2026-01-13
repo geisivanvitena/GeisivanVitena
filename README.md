@@ -106,7 +106,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <div align="center">
 
-  # 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+  # 🛠 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
   # 🖥️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
   
@@ -124,9 +124,9 @@ I have experience in system integration, data persistence, version control, and 
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" width="55" height="55" alt="Django" />
-      <br>Django
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="48" height="48" />
+        <br>Django
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask" />
@@ -175,10 +175,10 @@ I have experience in system integration, data persistence, version control, and 
       <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
-      <br>MySQL
-    </td>
+      <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+                <br>MySQL
+              </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
       <br>MongoDB

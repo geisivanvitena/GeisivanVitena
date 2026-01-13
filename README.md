@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=👋+HELLO+WORLD!;🎉+WELCOME+TO+MY+GITHUB;+🧔🏻I'M+GEISIVAN!;💻+FULL+STACK+DEVELOPER!;JAVA|SPRING+BOOT;ANGULAR|REACT;JAVASCRIPT|TYPESCRIPT|HTML|CSS)](https://git.io/typing-svg)
 </div>
 
-# ☕ Code & Inspiration
+# ☕ 𝐂𝐨𝐝𝐞 & 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧
 
 ```java
 
@@ -24,7 +24,7 @@ public class ProgrammerLifeController {
 
 ```
 
-# 🧬 About Me  
+# 🧬 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 I am a Full Stack Software Developer, specialized in building modern, secure, and scalable applications.
 
@@ -34,9 +34,9 @@ I have experience in system integration, data persistence, version control, and 
 
 ---
 
-# 🎯 Technical Expertise
+# 🎯 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
 
-## ⚙️ Backend
+## ⚙️ 𝐁𝐚𝐜𝐤𝐞𝐧𝐝
 
 - REST API development with Spring Boot
 
@@ -46,7 +46,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-## 🎨 Frontend
+## 🎨 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝
 
 - Web interface development with Angular and React
 
@@ -56,7 +56,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-## 🗄️ Data Persistence
+## 🗄️ 𝐃𝐚𝐭𝐚 𝐏𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐞
 
 - SQL databases (PostgreSQL, MySQL, SQL Server)
 
@@ -64,7 +64,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-## 🚀 Build, CI/CD & DevOps
+## 🚀 𝐁𝐮𝐢𝐥𝐝, 𝐂𝐈/𝐂𝐃 & 𝐃𝐞𝐯𝐎𝐩𝐬
 
 - Dependency management and build automation with Maven and Gradle
 
@@ -74,7 +74,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-## 🔗 System Integration
+## 🔗 𝐒𝐲𝐬𝐭𝐞𝐦 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧
 
 - Consumption and exposure of RESTful services
 
@@ -82,7 +82,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-## 🧠 Development Best Practices
+## 🧠 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐁𝐞𝐬𝐭 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬
 
 - Clean Code
 
@@ -92,7 +92,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <hr>
 
-## 🤝 Soft Skills
+## 🤝 𝐒𝐨𝐟𝐭 𝐒𝐤𝐢𝐥𝐥𝐬
 
 - Communication
 
@@ -106,56 +106,116 @@ I have experience in system integration, data persistence, version control, and 
 
 <div align="center">
 
-  # 🛠️ Tech Stack
+  # 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
-  # 🖥️ Languages & Frameworks
+  # 🖥️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
+  
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=django" width="55" height="55" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
 
-  <br>
+  <hr>
   
-  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-  [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://reactjs.org/)
-  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-  
-   <br>
-  
-  # 🗄️ Databases
+  # 🗄️ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 
-   <br>
-  
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  
-  <br>
-  
-  # 🧰 Tools
+  <table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
-  <br>
+  <hr>
   
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-  [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
-</div>
+  # 🧰 𝐓𝐨𝐨𝐥𝐬
+
+  <table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-  <br>
+  <hr>
 
-  # 📊 GitHub Statistics
+  # 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
   <img
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8&theme=dark"
@@ -167,14 +227,13 @@ I have experience in system integration, data persistence, version control, and 
   src="https://github-readme-stats-fast.vercel.app/api?username=geisivanvitena&show_icons=true&theme=dark"
   alt="GitHub Stats"
 />
-  
 </div>
 
 <div align="center">
 
-  <br>
+  <hr>
 
-  # 📈 Activity Graph
+  # 📈 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark)
 </div>
@@ -184,7 +243,7 @@ I have experience in system integration, data persistence, version control, and 
 
   <br>
 
-  # ☕ 🖥️ Developer Life
+  # ☕ 🖥️ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
   
   <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">
   <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">

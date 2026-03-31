@@ -1,7 +1,15 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=👋+HELLO+WORLD!;🎉+WELCOME+TO+MY+GITHUB;+🧔🏻I'M+GEISIVAN!;💻+FULL+STACK+DEVELOPER!;JAVA|SPRING+BOOT;ANGULAR|REACT;JAVASCRIPT|TYPESCRIPT|HTML|CSS)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FFFF,15:00CFFF,30:00BFFF,45:1E90FF,60:007FFF,75:0047AB,90:001F7F,100:0000FF&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+  
+
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=1E90FF&lines=🧔🏻+Hi,+I’m+Geisivan+Vitena;+Full+Stack+Developer)](https://git.io/typing-svg)
+
+
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+
 </div>
 
 # ☕ 𝐂𝐨𝐝𝐞 & 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧
@@ -24,230 +32,65 @@ public class ProgrammerLifeController {
 
 ```
 
-# 🧬 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 
-I am a Full Stack Software Developer, specialized in building modern, secure, and scalable applications.
+## <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="40" alt="DNA animado"/> About Me
+
+I`m a Full Stack Developer, focused on building modern, secure, and scalable applications.
 
 I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software engineering best practices.
 
 I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
 
----
-
-# 🎯 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
-
-## ⚙️ 𝐁𝐚𝐜𝐤𝐞𝐧𝐝
-
-- REST API development with Spring Boot
-
-- Security implementation using Spring Security and JWT
-
-- Layered architecture and clear separation of responsibilities
-
-<hr>
-
-## 🎨 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝
-
-- Web interface development with Angular and React
-
-- Responsive application development using HTML, CSS, and JavaScript
-
-- Frontend integration with REST APIs
-
-<hr>
-
-## 🗄️ 𝐃𝐚𝐭𝐚 𝐏𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐞
-
-- SQL databases (PostgreSQL, MySQL, SQL Server)
-
-- NoSQL databases (MongoDB)
-
-<hr>
-
-## 🚀 𝐁𝐮𝐢𝐥𝐝, 𝐂𝐈/𝐂𝐃 & 𝐃𝐞𝐯𝐎𝐩𝐬
-
-- Dependency management and build automation with Maven and Gradle
-
-- Build, test, and deployment automation
-
-- Continuous Integration and Continuous Delivery (CI/CD) with GitHub Actions
-
-<hr>
-
-## 🔗 𝐒𝐲𝐬𝐭𝐞𝐦 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧
-
-- Consumption and exposure of RESTful services
-
-- Communication between systems and microservices
-
-<hr>
-
-## 🧠 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐁𝐞𝐬𝐭 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬
-
-- Clean Code
-
-- Well-defined architecture
-
-- Code versioning and organization using Git/GitHub
-
-<hr>
-
-## 🤝 𝐒𝐨𝐟𝐭 𝐒𝐤𝐢𝐥𝐥𝐬
-
-- Communication
-
-- Teamwork
-
-- Analytical Thinking
-
-- Resilience
-
-<hr>
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 
 <div align="center">
 
-  # 🛠 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack
 
-  # 🖥️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
-  
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="48" height="48" />
-        <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
+| Backend                                                        | Frontend                                                | Databases                                                       | DevOps                        | 
+| :------------------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------------: | :---------------------------: |
+| <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/><br/>Java | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React | <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/><br>PostgreSQL | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br/>Docker |
+| <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/><br>Spring Boot | <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular"/><br>Angular | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/><br>MySQL | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br>GitHub |
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br>Python | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript | <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB | |
+| <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/><br>Django | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript | | |
+| <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br>Flask | <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br>HTML5 | | |
+| <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/><br>REST API | <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br>CSS3 | | |
+| | <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/><br>Bootstrap | | |
 
-  <hr>
-  
-  # 🗄️ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
+</div>
 
-  <table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-      <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
-                <br>MySQL
-              </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
-
-  <hr>
-  
-  # 🧰 𝐓𝐨𝐨𝐥𝐬
-
-  <table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 
 <div align="center">
 
-  <hr>
-
-  # 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-
+  ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> GitHub Statistics
+  
   <img
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8&theme=dark"
   width="420"
-  alt="Top Languages"
-/>
+  alt="Top Languages"/>
 
-<img
+  <img
   src="https://github-readme-stats-fast.vercel.app/api?username=geisivanvitena&show_icons=true&theme=dark"
-  alt="GitHub Stats"
-/>
+  alt="GitHub Stats"/>
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark)](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=react&area=true)
+
 </div>
 
-<div align="center">
-
-  <hr>
-
-  # 📈 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark)
-</div>
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 
 
 <div align="center">
-
-  <br>
-
-  # ☕ 🖥️ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
+  
+  # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
   
   <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">
   <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
 </div>
+
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 
 <div align="center">
   
@@ -258,14 +101,17 @@ I have experience in system integration, data persistence, version control, and 
   </picture>
 </div>
 
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+
 <br>
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=geisivanvitena" alt="GitHub profile views counter" width="150" height="40">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,10:00CFFF,30:00BFFF,45:1E90FF,60:007FFF,75:0047AB,90:001F7F,100:0000FF&height=180&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%93%20Come%20back%20soon!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=60"/>
 </div>
 
+<br>
+
 <div align="center">
-  
-  ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14&section=footer&reversal=false&animation=twinkling)
+  <img src="https://komarev.com/ghpvc/?username=geisivanvitena" alt="GitHub profile views counter" width="150" height="40">
 </div>

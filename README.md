@@ -1,18 +1,17 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FFFF,15:00CFFF,30:00BFFF,45:1E90FF,60:007FFF,75:0047AB,90:001F7F,100:0000FF&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00FFFF,15:00CFFF,30:00BFFF,45:1E90FF,60:007FFF,75:0047AB,90:001F7F,100:0000FF&text=Hello%20World!%0AWelcome%20to%20my%20profile&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=1E90FF&lines=🧔🏻+Hi,+I’m+Geisivan+Vitena;+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=1E90FF&lines=🧔🏻+I’m+Geisivan;+Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 
 </div>
 
-# ☕ 𝐂𝐨𝐝𝐞 & 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧
+# <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="80" alt="Café animado"/> 𝐂𝐨𝐝𝐞 & 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢on
 
 ```java
 
@@ -34,7 +33,7 @@ public class ProgrammerLifeController {
 
 <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="40" alt="DNA animado"/> About Me
+# <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="70" alt="DNA animado"/> About Me
 
 I`m a Full Stack Developer, focused on building modern, secure, and scalable applications.
 
@@ -46,7 +45,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="70"> Tech Stack
 
 | Backend                                                        | Frontend                                                | Databases                                                       | DevOps                        | 
 | :------------------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------------: | :---------------------------: |
@@ -64,7 +63,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <div align="center">
 
-  ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> GitHub Statistics
+  # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="70"> GitHub Statistics
   
   <img
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=geisivanvitena&layout=compact&langs_count=8&theme=dark"
@@ -84,7 +83,7 @@ I have experience in system integration, data persistence, version control, and 
 
 <div align="center">
   
-  # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
+  # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="70"> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
   
   <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">
   <img height="300" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">

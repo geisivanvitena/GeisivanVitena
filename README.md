@@ -17,7 +17,7 @@
 <h2 align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
   
-  ⚙️ Build → 🧪 Test → 📦 Package → 🚀 Deploy</h2>
+  Dev Workflow <br> ⚙️ Build → 🧪 Test → 📦 Package → 🚀 Deploy</h2>
 
 ```java
 @RestController
@@ -43,7 +43,7 @@ public class DevWorkflowController {
 
 <!-- ================= ABOUT ================= -->
 <h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="65" alt="DNA animado"/> About Me
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="65" alt="DNA animado"/> <br> About Me
 </h2>
 
 <p align="center">  
@@ -65,7 +65,7 @@ public class DevWorkflowController {
 <div align="center">
 
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65"> Tech Stack
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65"> <br> Tech Stack
 </h2>
 
 | Backend                                                        | Frontend                                                | Databases                                                       | DevOps                        | 
@@ -87,7 +87,7 @@ public class DevWorkflowController {
 <div align="center">
 
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="65"> GitHub Statistics
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="65"> <br> GitHub Statistics
 </h2>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geisivanvitena&theme=radical"/>
@@ -113,7 +113,7 @@ public class DevWorkflowController {
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
-  <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="65" alt="Café animado"/> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞<br>
+  <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="65" alt="Café animado"/><br>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
   
 
 <p align="center">

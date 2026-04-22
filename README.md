@@ -15,25 +15,26 @@
 
 <!-- ================= CODE ================= -->
 <h2 align="center">
-  <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="65" alt="Café animado"/> 𝐂𝐨𝐝𝐞 & 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢on
-</h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
+  
+  ⚙️ Build → 🧪 Test → 📦 Package → 🚀 Deploy</h2>
 
 ```java
-
 @RestController
-public class ProgrammerLifeController {
+public class DevWorkflowController {
 
-    @GetMapping("/daily-motivation")
-    public ResponseEntity<String> inspiration(@RequestParam boolean motivated) {
+    @GetMapping("/status-dev")
+    public ResponseEntity<String> status(@RequestParam int step) {
 
-        String message = motivated
-            ? "💻 Motivated! Let's code! 🚀"
-            : "☕ Take a coffee and keep coding! 💻";
-
-        return ResponseEntity.ok(message);
+        return ResponseEntity.ok(
+            step == 1 ? "⚙️ Building the application..." :
+            step == 2 ? "🧪 Running automated tests..." :
+            step == 3 ? "📦 Packaging for deployment..." :
+            step == 4 ? "🚀 Deploying to production..." :
+                        "❌ Invalid workflow step."
+        );
     }
 }
-
 ```
 
 <p align="center">
@@ -44,12 +45,17 @@ public class ProgrammerLifeController {
 <h2 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="65" alt="DNA animado"/> About Me
 </h2>
-  
-I'm a Full Stack Developer, focused on building modern, secure, and scalable applications.
 
-I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software engineering best practices.
+<p align="center">  
+  I'm a Full Stack Developer, focused on building modern, secure, and scalable applications.
+</p>
+<p align="center">
+  I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software       engineering best practices.
+</p>
 
-I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
+<p align="center">
+  I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
@@ -106,8 +112,9 @@ I have experience in system integration, data persistence, version control, and 
 <div align="center">
 
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65"> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
-</h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
+  <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="65" alt="Café animado"/> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞<br>
+  
 
 <p align="center">
   <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">

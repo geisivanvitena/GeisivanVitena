@@ -17,22 +17,25 @@
 <h2 align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
   
-  Dev Workflow <br> ⚙️ Build → 🧪 Test → 📦 Package → 🚀 Deploy</h2>
+  Dev Workflow</h2>
 
 ```java
 @RestController
+@RequestMapping("/dev")
 public class DevWorkflowController {
 
-    @GetMapping("/status-dev")
+    @GetMapping("/status")
     public ResponseEntity<String> status(@RequestParam int step) {
 
-        return ResponseEntity.ok(
-            step == 1 ? "⚙️ Building the application..." :
-            step == 2 ? "🧪 Running automated tests..." :
-            step == 3 ? "📦 Packaging for deployment..." :
-            step == 4 ? "🚀 Deploying to production..." :
-                        "❌ Invalid workflow step."
-        );
+        String message = switch (step) {
+            case 1 -> "⚙️ Building the application...";
+            case 2 -> "🧪 Running automated tests...";
+            case 3 -> "📦 Packaging for deployment...";
+            case 4 -> "🚀 Deploying to production...";
+            default -> "❌ Invalid workflow step.";
+        };
+
+        return ResponseEntity.ok(message);
     }
 }
 ```

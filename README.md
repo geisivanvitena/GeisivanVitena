@@ -143,14 +143,12 @@ public class DevWorkflowController {
   <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,10:00CFFF,30:00BFFF,45:1E90FF,60:007FFF,75:0047AB,90:001F7F,100:0000FF&height=180&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%93%20Come%20back%20soon!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=60"/>
-</div>
-
-<br>
-
 <!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geisivanvitena" alt="GitHub profile views counter" width="150" height="40">
 </p>
+
+<!-- ================= FOOTER ================= -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,10:00CFFF,30:00BFFF,45:1E90FF,60:007FFF,75:0047AB,90:001F7F,100:0000FF&height=180&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%93%20Come%20back%20soon!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=60"/>
+</div>

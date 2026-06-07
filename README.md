@@ -71,15 +71,58 @@ public class DevWorkflowController {
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65"> <br> Tech Stack
 </h2>
 
-| Backend                                                        | Frontend                                                | Databases                                                       | Containerization & CI/CD               | 
-| :------------------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------------: | :---------------------------: |
-| <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/><br/>Java | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React | <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/><br>PostgreSQL | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br/>Docker |
-| <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/><br>Spring Boot | <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular"/><br>Angular | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/><br>MySQL | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br>GitHub |
-| <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br>Python | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript | <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB | |
-| <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/><br>Django | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript | | |
-| <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br>Flask | <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br>HTML5 | | |
-| <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/><br>REST API | <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br>CSS3 | | |
-| | <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/><br>Bootstrap | | |
+<div align="center">
+<h3>Back-End</h3>
+  
+<table><tr>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/><br/>Java
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/><br>Spring Boot
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br>Python
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/><br>Django
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br>Flask
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/><br>REST API
+</tr></table>
+</div>
+
+<br>
+
+<div align="center">
+<h3>Front-End</h3>
+  
+<table><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular"/><br>Angular
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br>HTML5
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br>CSS3
+  <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/><br>Bootstrap
+</tr></table>
+</div>
+
+<br>
+
+<div align="center">
+<h3>Databases</h3>
+  
+<table><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/><br>PostgreSQL
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/><br>MySQL
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB
+</tr></table>
+</div>
+
+<br>
+
+<div align="center">
+<h3>DevOps & CI/CD</h3>
+  
+<table><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br>Git
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br>GitHub
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions"/><br>GitHub Actions
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br>Docker
+</tr></table>
 </div>
 
 <p align="center">
@@ -117,6 +160,7 @@ public class DevWorkflowController {
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
   <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="65" alt="Café animado"/><br>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
+</h2>
   
 
 <p align="center">

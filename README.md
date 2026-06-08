@@ -30,7 +30,7 @@ I work across both frontend and backend development, building complete web appli
 
 My experience includes API development, system integration, database modeling, and CI/CD automation, always applying software engineering best practices such as clean architecture, code quality, and system design principles.
 
-### Current Focus
+### **`Current Focus`**
 
 Full Stack development (React / Angular + Java Spring Boot)
 

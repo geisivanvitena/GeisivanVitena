@@ -16,19 +16,29 @@
 <!-- ================= ABOUT ================= -->
 <div align="center">
   
-# **`ABOUT ME`** 
+## **`ABOUT ME`** 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="150" alt="DNA animado"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="100" alt="DNA animado"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
-I'm a Full Stack Developer, focused on building modern, secure, and scalable applications.
+I'm a **Full Stack Developer focused on building scalable, secure, and maintainable systems**.
 
-I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software engineering best practices.
+I work across both frontend and backend development, building complete web applications from user interfaces to server-side systems.
 
-I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
+My experience includes API development, system integration, database modeling, and CI/CD automation, always applying software engineering best practices such as clean architecture, code quality, and system design principles.
+
+### Current Focus
+
+Full Stack development (React / Angular + Java Spring Boot)
+
+API development and system integration
+
+Database modeling and persistence (SQL & NoSQL)
+
+CI/CD pipelines and containerized deployments (Docker)
 
 </div>
 
@@ -39,9 +49,9 @@ I have experience in system integration, data persistence, version control, and 
 <!-- ================= TECH STACK ================= -->
 <div align="center">
 
-# **`TECH STACK`**
+## **`TECH STACK`**
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
@@ -124,9 +134,9 @@ I have experience in system integration, data persistence, version control, and 
 <!-- ================= CODE ================= -->
 <div align="center">
 
-# **`DEV WORKFLOW`** 
+## **`DEV WORKFLOW`** 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 
 </div>
 
@@ -162,10 +172,10 @@ public class DevWorkflowController {
 <!-- ================= STATS ================= -->
 <div align="center">
 
-# **`GITHUB STATISTICS`**
+## **`GITHUB STATISTICS`**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="100">
 </p>
 
 <p align="center">
@@ -193,9 +203,9 @@ public class DevWorkflowController {
 <!-- ================= DEV LIFE ================= -->
 <div align="center">
   
-# **`𝐃EVELOPER LIFE`**
+## **`𝐃EVELOPER LIFE`**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
 <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="150" alt="Café animado"/>
 
 <p align="center">

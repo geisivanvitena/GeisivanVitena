@@ -61,7 +61,7 @@ CI/CD pipelines and containerized deployments (Docker)
 
 <div align="center">
   
-### **`BACK-END`**
+## **`BACK-END`**
   
 <table><tr>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/><br/>Java
@@ -80,7 +80,7 @@ CI/CD pipelines and containerized deployments (Docker)
 
 <div align="center">
 
-### **`FRONT-END`**
+## **`FRONT-END`**
   
 <table><tr>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular"/><br>Angular
@@ -100,7 +100,7 @@ CI/CD pipelines and containerized deployments (Docker)
 
 <div align="center">
 
-### **`DATABASES`**
+## **`DATABASES`**
   
 <table><tr>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/><br>PostgreSQL
@@ -116,13 +116,31 @@ CI/CD pipelines and containerized deployments (Docker)
 
 <div align="center">
   
-### **`DEVOPS & CI/CD`**
+## **`DEVOPS & CI/CD`**
   
 <table><tr>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br>Git
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br>GitHub
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions"/><br>GitHub Actions
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br>Docker
+</tr></table>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+<div align="center">
+  
+## **`TOOLS & WORKFLOWS`**
+  
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/jira/0052CC" width="65" height="65" alt="Jira"/><br>Jira</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/trello/0052CC" width="65" height="65" alt="Trello"/><br>Trello</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="65" height="65" alt="Postman"/><br>Postman</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/insomnia/4000BF" width="65" height="65" alt="Insomnia"/><br>Insomnia</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="65" height="65" alt="Swagger"/><br>Swagger</td>
 </tr></table>
 
 </div>

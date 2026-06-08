@@ -1,23 +1,138 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00FFFF,15:00CFFF,30:00BFFF,45:1E90FF,60:007FFF,75:0047AB,90:001F7F,100:0000FF&text=Hello%20World!%0AWelcome%20to%20my%20profile&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=1E90FF&lines=🧔🏻+I'm+Geisivan;+Full+Stack+Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=1E90FF&lines=I'm+Geisivan;+Full+Stack+Developer"/>
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+
+</div>
+
+<!-- ================= ABOUT ================= -->
+<div align="center">
+  
+# **`ABOUT ME`** 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="150" alt="DNA animado"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+I'm a Full Stack Developer, focused on building modern, secure, and scalable applications.
+
+I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software engineering best practices.
+
+I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+<!-- ================= TECH STACK ================= -->
+<div align="center">
+
+# **`TECH STACK`**
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+</div>
+
+<div align="center">
+  
+### **`BACK-END`**
+  
+<table><tr>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/><br/>Java
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/><br>Spring Boot
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/><br>REST API
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br>Python
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/><br>Django
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br>Flask
+</tr></table>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+<div align="center">
+
+### **`FRONT-END`**
+  
+<table><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular"/><br>Angular
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br>HTML5
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br>CSS3
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/><br>Bootstrap
+</tr></table>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+<div align="center">
+
+### **`DATABASES`**
+  
+<table><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/><br>PostgreSQL
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/><br>MySQL
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB
+</tr></table>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+<div align="center">
+  
+### **`DEVOPS & CI/CD`**
+  
+<table><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br>Git
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br>GitHub
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions"/><br>GitHub Actions
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br>Docker
+</tr></table>
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 <!-- ================= CODE ================= -->
-<h2 align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
-  
-  Dev Workflow</h2>
+<div align="center">
+
+# **`DEV WORKFLOW`** 
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
 
 ```java
 @RestController
@@ -44,97 +159,18 @@ public class DevWorkflowController {
   <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
-<!-- ================= ABOUT ================= -->
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" width="65" alt="DNA animado"/> <br> About Me
-</h2>
-
-<p align="center">  
-  I'm a Full Stack Developer, focused on building modern, secure, and scalable applications.
-</p>
-<p align="center">
-  I work on end-to-end solutions, integrating backend and frontend with a focus on robust architecture, code quality, and consistent application of software       engineering best practices.
-</p>
-
-<p align="center">
-  I have experience in system integration, data persistence, version control, and CI/CD pipeline automation, always striving to deliver well-structured, efficient, and maintainable applications.
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
-</p>
-
-<!-- ================= TECH STACK ================= -->
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65"> <br> Tech Stack
-</h2>
-
-<div align="center">
-<h3>Back-End</h3>
-  
-<table><tr>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/><br/>Java
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/><br>Spring Boot
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br>Python
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/><br>Django
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br>Flask
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/><br>REST API
-</tr></table>
-</div>
-
-<br>
-
-<div align="center">
-<h3>Front-End</h3>
-  
-<table><tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular"/><br>Angular
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br>HTML5
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br>CSS3
-  <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/><br>Bootstrap
-</tr></table>
-</div>
-
-<br>
-
-<div align="center">
-<h3>Databases</h3>
-  
-<table><tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/><br>PostgreSQL
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/><br>MySQL
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB
-</tr></table>
-</div>
-
-<br>
-
-<div align="center">
-<h3>DevOps & CI/CD</h3>
-  
-<table><tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br>Git
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br>GitHub
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions"/><br>GitHub Actions
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br>Docker
-</tr></table>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
-</p>
-
 <!-- ================= STATS ================= -->
 <div align="center">
 
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="65"> <br> GitHub Statistics
-</h2>
+# **`GITHUB STATISTICS`**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="150">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geisivanvitena&theme=radical"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geisivanvitena&theme=radical"/>
@@ -145,7 +181,7 @@ public class DevWorkflowController {
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geisivanvitena&theme=radical"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=geisivanvitena&theme=radical"/>
 
-<br><br>
+<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark&area=true&hide_border=true"/>
 </div>
@@ -156,12 +192,15 @@ public class DevWorkflowController {
 
 <!-- ================= DEV LIFE ================= -->
 <div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="65">
-  <img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="65" alt="Café animado"/><br>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐋𝐢𝐟𝐞
-</h2>
   
+# **`𝐃EVELOPER LIFE`**
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150">
+<img src="https://github.com/geisivanvitena/GeisivanVitena/raw/main/assets/coffe.gif" width="150" alt="Café animado"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" />
+</p>
 
 <p align="center">
   <img height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-time">

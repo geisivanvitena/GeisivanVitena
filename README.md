@@ -33,6 +33,38 @@ I work across frontend and backend technologies, transforming business requireme
 
 <br>
 
+<!-- ================= CODE ================= -->
+<div align="center">
+
+## **`DEV WORKFLOW`** 
+
+</div>
+
+```java
+@RestController
+@RequestMapping("/dev")
+public class DevWorkflowController {
+
+    @GetMapping("/status")
+    public ResponseEntity<String> status(@RequestParam int step) {
+
+        String message = switch (step) {
+            case 1 -> "⚙️ Building the application...";
+            case 2 -> "🧪 Running automated tests...";
+            case 3 -> "📦 Packaging for deployment...";
+            case 4 -> "🚀 Deploying to production...";
+            default -> "❌ Invalid workflow step.";
+        };
+
+        return ResponseEntity.ok(message);
+    }
+}
+```
+
+<p align="center"><img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" /></p>
+
+<br>
+
 <!-- ================= TECH STACK ================= -->
 <div align="center">
 
@@ -104,38 +136,6 @@ I work across frontend and backend technologies, transforming business requireme
 </tr></table>
 
 </div>
-
-<p align="center"><img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" /></p>
-
-<br>
-
-<!-- ================= CODE ================= -->
-<div align="center">
-
-## **`DEV WORKFLOW`** 
-
-</div>
-
-```java
-@RestController
-@RequestMapping("/dev")
-public class DevWorkflowController {
-
-    @GetMapping("/status")
-    public ResponseEntity<String> status(@RequestParam int step) {
-
-        String message = switch (step) {
-            case 1 -> "⚙️ Building the application...";
-            case 2 -> "🧪 Running automated tests...";
-            case 3 -> "📦 Packaging for deployment...";
-            case 4 -> "🚀 Deploying to production...";
-            default -> "❌ Invalid workflow step.";
-        };
-
-        return ResponseEntity.ok(message);
-    }
-}
-```
 
 <p align="center"><img src="https://raw.githubusercontent.com/geisivanvitena/GeisivanVitena/refs/heads/main/assets/divider.svg" alt="Divider" width="100%" /></p>
 

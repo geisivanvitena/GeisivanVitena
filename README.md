@@ -150,12 +150,12 @@ public class DevWorkflowController {
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geisivanvitena&theme=radical"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geisivanvitena&theme=radical"/>
 
-<br><br>
+<br>
 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geisivanvitena&theme=radical"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=geisivanvitena&theme=radical"/>
 
-<br><br>
+<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark&area=true&hide_border=true"/>
 

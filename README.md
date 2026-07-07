@@ -146,18 +146,23 @@ public class DevWorkflowController {
 
 ## **`GITHUB STATISTICS`**
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geisivanvitena&theme=radical"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geisivanvitena&theme=radical"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geisivanvitena&theme=radical"/>
+<p>
+  <img width="32%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geisivanvitena&theme=radical"/>
+  <img width="32%" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geisivanvitena&theme=radical"/>
+  <img width="32%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geisivanvitena&theme=radical"/>
+</p>
 
 <br>
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geisivanvitena&theme=radical"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=geisivanvitena&theme=radical"/>
+<img width="100%" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geisivanvitena&theme=radical"/>
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark&area=true&hide_border=true"/>
+<img width="60%" alt="GitHub Streak" src="https://streak-stats.vercel.app/?user=geisivanvitena&theme=radical"/>
+
+<br>
+
+<img width="100%" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=geisivanvitena&theme=github-dark&area=true&hide_border=true"/>
 
 </div>
 
